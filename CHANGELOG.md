@@ -1,3 +1,7 @@
+## 8.1.1
+  - Updated kafka client to version 2.3.1
+  - Added support for zstd compression
+
 ## 8.1.0
   - Updated kafka client to version 2.3.0
 
