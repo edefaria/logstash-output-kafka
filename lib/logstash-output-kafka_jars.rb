@@ -2,7 +2,7 @@
 
 require 'jar_dependencies'
 require_jar('org.apache.kafka', 'kafka-clients', '2.5.0')
-require_jar('com.github.luben', 'zstd-jni', '1.4.4-9')
+require_jar('com.github.luben', 'zstd-jni', '1.4.5-2')
 require_jar('org.slf4j', 'slf4j-api', '1.7.30')
 require_jar('org.lz4', 'lz4-java', '1.7.1')
-require_jar('org.xerial.snappy', 'snappy-java', '1.1.7.3')
+require_jar('org.xerial.snappy', 'snappy-java', '1.1.7.5')
